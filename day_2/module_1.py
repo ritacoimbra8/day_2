@@ -17,6 +17,9 @@ def is_number(valor):
 
 if __name__ == '__main__':
     
+    
+    
+    
     while True:
         valor_1 = input('first number integer? ')
         valor_1 = is_number(valor_1)
